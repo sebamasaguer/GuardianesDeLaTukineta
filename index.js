@@ -10,3 +10,11 @@ function Cristian(){
         nationality:'Colombian'
     }
 }
+
+function Hernan(){
+    return {
+        name:'Juan Hernan Parino',
+        age:23,
+        nationality:'Argentino'
+    }
+}
